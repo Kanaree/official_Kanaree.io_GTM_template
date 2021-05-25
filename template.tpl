@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Kanaree.io - Official Tracking Template",
-  "categories": ["ANALYTICS", "DATA_WAREHOUSING","HEAT_MAP","PERSONALIZATION","SESSION_RECORDING","ATTRIBUTION","EMAIL_MARKETING"]
+  "categories": ["ANALYTICS", "DATA_WAREHOUSING","HEAT_MAP","PERSONALIZATION","SESSION_RECORDING","ATTRIBUTION","EMAIL_MARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Kanaree.io",
