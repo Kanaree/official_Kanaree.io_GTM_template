@@ -1,5 +1,5 @@
 homepage: "https://www.kanaree.io/"
 documentation: "https://github.com/Kanaree/official_Kanaree.io_GTM_template/blob/main/README.md"
 versions:
-  - sha: 803c393c82c1ac2597b9509ec88232353fb25332
+  - sha: 3d6ac394747ff67de44df783a4097de9e752ec57
     changeNotes: Initial release.
